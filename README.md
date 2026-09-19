@@ -27,3 +27,10 @@ Incluye 13 módulos, 130 ejercicios y recursos gratuitos:
 Cada módulo combina ejercicios básicos y avanzados. La evaluación se apoya especialmente en la práctica y en grabaciones para poder observar la propia evolución.
 
 [Ver el curso →](comunicacion/curso-comunicacion.md)
+
+
+### Finanzas personales
+
+Curso modular de finanzas personales adaptado a España, desde fundamentos y presupuesto hasta ahorro, inversión, deuda, protección y planificación financiera. Incluye 4 módulos y ejercicios prácticos.
+
+- [Ver el curso →](finanzas/Curso_Finanzas_Personales.md)
