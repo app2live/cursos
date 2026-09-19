@@ -34,3 +34,10 @@ Cada módulo combina ejercicios básicos y avanzados. La evaluación se apoya es
 Curso modular de finanzas personales adaptado a España, desde fundamentos y presupuesto hasta ahorro, inversión, deuda, protección y planificación financiera. Incluye 4 módulos y ejercicios prácticos.
 
 - [Ver el curso →](finanzas/Curso_Finanzas_Personales.md)
+
+
+### OpenClaw + LLMs Local/Cloud
+
+Mini-curso práctico de 10 apartados sobre OpenClaw, self-hosting, skills, automatización, seguridad, Ollama, interfaces locales, RAG y arquitectura híbrida local/cloud.
+
+- [Ver el curso →](openclaw/mini-curso-openclaw-llm-local.md)
